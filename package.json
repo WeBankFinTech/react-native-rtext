@@ -29,8 +29,7 @@
     "e2e:build": "detox build --configuration ios.sim.debug",
     "e2e:test": "detox test --configuration ios.sim.debug"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@react-native-community/cli": "^4.10.1",
     "@react-native-community/masked-view": "^0.1.9",
@@ -144,5 +143,13 @@
     "lodash": "^4.17.13",
     "react": "^16.0.0",
     "react-native": "^0.40.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeBankFinTech/react-native-rtext.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WeBankFinTech/react-native-rtext/issues"
+  },
+  "homepage": "https://github.com/WeBankFinTech/react-native-rtext#readme"
 }
