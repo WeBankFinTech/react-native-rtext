@@ -1,0 +1,12 @@
+{
+  "Homes": [
+    {
+      "text": "%Home%",
+      "replacement": "%RText replacer%"
+    },
+    {
+      "text": "%Meeting with%",
+      "replacement": "%RText replacer%"
+    }
+  ]
+}
