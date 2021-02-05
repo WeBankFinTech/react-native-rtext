@@ -1,6 +1,6 @@
 {
   "name": "@webank/react-native-rtext",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A lightweight, extendable text replacer for React Native",
   "main": "library/RText.js",
   "private": false,
